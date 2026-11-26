@@ -29,9 +29,9 @@ I turn messy health and environmental data into analysis, maps, and stories peop
       <span class="eb-sheet-name">Source</span>
     </p>
     <div class="eb-flash-grid">
-      <a class="eb-tile" href="https://emmabranch.github.io/ontario-claims-caribou/" aria-label="Fell: mining claims and caribou in Ontario"><img src="images/motifs/fell.svg" alt=""><span class="eb-tlabel"><span class="m">Fell</span><span class="p">Caribou</span></span></a>
-      <a class="eb-tile" href="https://emmabranch.github.io/bc-wildfire-bigquery/" aria-label="Sparkle: BC wildfire history in BigQuery"><img src="images/motifs/sparkle.svg" alt=""><span class="eb-tlabel"><span class="m">Sparkle</span><span class="p">Wildfire</span></span></a>
-      <a class="eb-tile" href="https://emmabranch.github.io/vch-climate-equity-profile/" aria-label="Thistle: climate resilience and equity in VCH communities"><img src="images/motifs/thistle.svg" alt=""><span class="eb-tlabel"><span class="m">Thistle</span><span class="p">Equity</span></span></a>
+      <a class="eb-tile" href="https://emmabranch.github.io/ontario-claims-caribou/" aria-label="Fell (Caribou): mining claims and caribou in Ontario"><img src="images/motifs/fell.svg" alt=""><span class="eb-tlabel"><span class="m">Fell</span><span class="p">Caribou</span></span></a>
+      <a class="eb-tile" href="https://emmabranch.github.io/bc-wildfire-bigquery/" aria-label="Sparkle (Wildfire): BC wildfire history in BigQuery"><img src="images/motifs/sparkle.svg" alt=""><span class="eb-tlabel"><span class="m">Sparkle</span><span class="p">Wildfire</span></span></a>
+      <a class="eb-tile" href="https://emmabranch.github.io/vch-climate-equity-profile/" aria-label="Thistle (Equity): climate resilience and equity in VCH communities"><img src="images/motifs/thistle.svg" alt=""><span class="eb-tlabel"><span class="m">Thistle</span><span class="p">Equity</span></span></a>
       <span class="eb-tile eb-tile-empty" aria-hidden="true"><img src="images/motifs/fell.svg" alt=""><span class="eb-tlabel">Fell</span></span>
       <span class="eb-tile eb-tile-empty" aria-hidden="true"><img src="images/motifs/fell.svg" alt=""><span class="eb-tlabel">Fell</span></span>
       <span class="eb-tile eb-tile-empty" aria-hidden="true"><img src="images/motifs/fell.svg" alt=""><span class="eb-tlabel">Fell</span></span>
@@ -48,9 +48,9 @@ I turn messy health and environmental data into analysis, maps, and stories peop
       <span class="eb-sheet-name">People</span>
     </p>
     <div class="eb-flash-grid">
-      <a class="eb-tile" href="https://emmabranch.github.io/redcap-starter-kit/" aria-label="Bumblebee: REDCap starter kit"><img src="images/motifs/bumblebee.svg" alt=""><span class="eb-tlabel"><span class="m">Bumblebee</span><span class="p">REDCap</span></span></a>
-      <a class="eb-tile" href="https://emmabranch.github.io/bc-housing-indicators/" aria-label="House: BC municipal housing indicators"><img src="images/motifs/house.svg" alt=""><span class="eb-tlabel"><span class="m">House</span><span class="p">Housing</span></span></a>
-      <a class="eb-tile" href="https://emmabranch.github.io/vch-climate-equity-profile/" aria-label="Thistle: climate resilience and equity in VCH communities"><img src="images/motifs/thistle.svg" alt=""><span class="eb-tlabel"><span class="m">Thistle</span><span class="p">Equity</span></span></a>
+      <a class="eb-tile" href="https://emmabranch.github.io/redcap-starter-kit/" aria-label="Bumblebee (REDCap): REDCap starter kit"><img src="images/motifs/bumblebee.svg" alt=""><span class="eb-tlabel"><span class="m">Bumblebee</span><span class="p">REDCap</span></span></a>
+      <a class="eb-tile" href="https://emmabranch.github.io/bc-housing-indicators/" aria-label="House (Housing): BC municipal housing indicators"><img src="images/motifs/house.svg" alt=""><span class="eb-tlabel"><span class="m">House</span><span class="p">Housing</span></span></a>
+      <a class="eb-tile" href="https://emmabranch.github.io/vch-climate-equity-profile/" aria-label="Thistle (Equity): climate resilience and equity in VCH communities"><img src="images/motifs/thistle.svg" alt=""><span class="eb-tlabel"><span class="m">Thistle</span><span class="p">Equity</span></span></a>
       <span class="eb-tile eb-tile-empty" aria-hidden="true"><img src="images/motifs/fell.svg" alt=""><span class="eb-tlabel">Fell</span></span>
       <span class="eb-tile eb-tile-empty" aria-hidden="true"><img src="images/motifs/fell.svg" alt=""><span class="eb-tlabel">Fell</span></span>
       <span class="eb-tile eb-tile-empty" aria-hidden="true"><img src="images/motifs/fell.svg" alt=""><span class="eb-tlabel">Fell</span></span>
@@ -67,8 +67,8 @@ I turn messy health and environmental data into analysis, maps, and stories peop
       <span class="eb-sheet-name">Roads</span>
     </p>
     <div class="eb-flash-grid">
-      <a class="eb-tile" href="https://emmabranch.github.io/bike-recall-surveillance/" aria-label="Coral: bike recall surveillance"><img src="images/motifs/coral.svg" alt=""><span class="eb-tlabel"><span class="m">Coral</span><span class="p">Recalls</span></span></a>
-      <a class="eb-tile" href="https://emmabranch.github.io/gravel-geometry/" aria-label="Wave: gravel bike geometry explorer"><img src="images/motifs/wave.svg" alt=""><span class="eb-tlabel"><span class="m">Wave</span><span class="p">Gravel</span></span></a>
+      <a class="eb-tile" href="https://emmabranch.github.io/bike-recall-surveillance/" aria-label="Coral (Recalls): bike recall surveillance"><img src="images/motifs/coral.svg" alt=""><span class="eb-tlabel"><span class="m">Coral</span><span class="p">Recalls</span></span></a>
+      <a class="eb-tile" href="https://emmabranch.github.io/gravel-geometry/" aria-label="Wave (Gravel): gravel bike geometry explorer"><img src="images/motifs/wave.svg" alt=""><span class="eb-tlabel"><span class="m">Wave</span><span class="p">Gravel</span></span></a>
       <span class="eb-tile eb-tile-empty" aria-hidden="true"><img src="images/motifs/fell.svg" alt=""><span class="eb-tlabel">Fell</span></span>
       <span class="eb-tile eb-tile-empty" aria-hidden="true"><img src="images/motifs/fell.svg" alt=""><span class="eb-tlabel">Fell</span></span>
       <span class="eb-tile eb-tile-empty" aria-hidden="true"><img src="images/motifs/fell.svg" alt=""><span class="eb-tlabel">Fell</span></span>
@@ -87,7 +87,7 @@ I turn messy health and environmental data into analysis, maps, and stories peop
     </p>
     <div class="eb-flash-grid">
       <a class="eb-tile" href="https://emmabranch.shinyapps.io/bc-salmon-explorer/" aria-label="Salmon: BC Salmon Explorer"><img src="images/motifs/salmon.svg" alt=""><span class="eb-tlabel"><span class="m">Salmon</span><span class="p">Salmon</span></span></a>
-      <a class="eb-tile" href="https://emmabranch.github.io/bc-lightstation-qc/" aria-label="Lighthouse: BC lightstation sea temperatures and the marine heatwave"><img src="images/motifs/lighthouse.svg" alt=""><span class="eb-tlabel"><span class="m">Lighthouse</span><span class="p">Heatwave</span></span></a>
+      <a class="eb-tile" href="https://emmabranch.github.io/bc-lightstation-qc/" aria-label="Lighthouse (Heatwave): BC lightstation sea temperatures and the marine heatwave"><img src="images/motifs/lighthouse.svg" alt=""><span class="eb-tlabel"><span class="m">Lighthouse</span><span class="p">Heatwave</span></span></a>
       <span class="eb-tile eb-tile-empty" aria-hidden="true"><img src="images/motifs/fell.svg" alt=""><span class="eb-tlabel">Fell</span></span>
       <span class="eb-tile eb-tile-empty" aria-hidden="true"><img src="images/motifs/fell.svg" alt=""><span class="eb-tlabel">Fell</span></span>
       <span class="eb-tile eb-tile-empty" aria-hidden="true"><img src="images/motifs/fell.svg" alt=""><span class="eb-tlabel">Fell</span></span>
@@ -105,10 +105,10 @@ I turn messy health and environmental data into analysis, maps, and stories peop
       <span class="eb-sheet-name">Sea</span>
     </p>
     <div class="eb-flash-grid">
-      <a class="eb-tile" href="https://emmabranch.github.io/salish-sea-whales/" aria-label="Seal: whales of the Salish Sea"><img src="images/motifs/seal.svg" alt=""><span class="eb-tlabel"><span class="m">Seal</span><span class="p">Whales</span></span></a>
-      <a class="eb-tile" href="https://emmabranch.github.io/bc-fish-stock-status/" aria-label="Jellyfish: BC fish stock status"><img src="images/motifs/jellyfish.svg" alt=""><span class="eb-tlabel"><span class="m">Jellyfish</span><span class="p">Fisheries</span></span></a>
-      <a class="eb-tile" href="https://emmabranch.github.io/scotland-seas-indicators/" aria-label="Puffin: State of Scotland's Seas"><img src="images/motifs/puffin.svg" alt=""><span class="eb-tlabel"><span class="m">Puffin</span><span class="p">Scotland</span></span></a>
-      <a class="eb-tile" href="https://emmabranch.github.io/bc-lightstation-qc/" aria-label="Lighthouse: BC lightstation sea temperatures and the marine heatwave"><img src="images/motifs/lighthouse.svg" alt=""><span class="eb-tlabel"><span class="m">Lighthouse</span><span class="p">Heatwave</span></span></a>
+      <a class="eb-tile" href="https://emmabranch.github.io/salish-sea-whales/" aria-label="Seal (Whales): whales of the Salish Sea"><img src="images/motifs/seal.svg" alt=""><span class="eb-tlabel"><span class="m">Seal</span><span class="p">Whales</span></span></a>
+      <a class="eb-tile" href="https://emmabranch.github.io/bc-fish-stock-status/" aria-label="Jellyfish (Fisheries): BC fish stock status"><img src="images/motifs/jellyfish.svg" alt=""><span class="eb-tlabel"><span class="m">Jellyfish</span><span class="p">Fisheries</span></span></a>
+      <a class="eb-tile" href="https://emmabranch.github.io/scotland-seas-indicators/" aria-label="Puffin (Scotland): State of Scotland's Seas"><img src="images/motifs/puffin.svg" alt=""><span class="eb-tlabel"><span class="m">Puffin</span><span class="p">Scotland</span></span></a>
+      <a class="eb-tile" href="https://emmabranch.github.io/bc-lightstation-qc/" aria-label="Lighthouse (Heatwave): BC lightstation sea temperatures and the marine heatwave"><img src="images/motifs/lighthouse.svg" alt=""><span class="eb-tlabel"><span class="m">Lighthouse</span><span class="p">Heatwave</span></span></a>
       <span class="eb-tile eb-tile-empty" aria-hidden="true"><img src="images/motifs/fell.svg" alt=""><span class="eb-tlabel">Fell</span></span>
       <span class="eb-tile eb-tile-empty" aria-hidden="true"><img src="images/motifs/fell.svg" alt=""><span class="eb-tlabel">Fell</span></span>
     </div>
@@ -151,7 +151,7 @@ I turn messy health and environmental data into analysis, maps, and stories peop
 ```{=html}
 <div class="eb-proj-grid column-page">
   <article class="eb-proj">
-    <a href="https://emmabranch.github.io/salish-sea-whales/" class="eb-proj-img"><img src="images/cards/salish-sea-whales.png" alt="" loading="lazy"></a>
+    <a href="https://emmabranch.github.io/salish-sea-whales/" class="eb-proj-img" tabindex="-1" aria-hidden="true"><img src="images/cards/salish-sea-whales.png" alt="" loading="lazy"></a>
     <div class="eb-proj-body">
       <h3><a href="https://emmabranch.github.io/salish-sea-whales/">Whales of the Salish Sea</a></h3>
       <p>More whales, or more watchers? An interactive story about 13,000 whale sightings.</p>
@@ -160,7 +160,7 @@ I turn messy health and environmental data into analysis, maps, and stories peop
     </div>
   </article>
   <article class="eb-proj">
-    <a href="https://emmabranch.github.io/redcap-starter-kit/" class="eb-proj-img"><img src="images/cards/redcap-starter-kit.png" alt="" loading="lazy"></a>
+    <a href="https://emmabranch.github.io/redcap-starter-kit/" class="eb-proj-img" tabindex="-1" aria-hidden="true"><img src="images/cards/redcap-starter-kit.png" alt="" loading="lazy"></a>
     <div class="eb-proj-body">
       <h3><a href="https://emmabranch.github.io/redcap-starter-kit/">REDCap starter kit</a></h3>
       <p>From REDCap project to quality-checked report, with dictionary-driven cleaning and six data quality checks.</p>
@@ -169,7 +169,7 @@ I turn messy health and environmental data into analysis, maps, and stories peop
     </div>
   </article>
   <article class="eb-proj">
-    <a href="https://emmabranch.github.io/bc-housing-indicators/" class="eb-proj-img"><img src="images/cards/bc-housing-indicators.png" alt="" loading="lazy"></a>
+    <a href="https://emmabranch.github.io/bc-housing-indicators/" class="eb-proj-img" tabindex="-1" aria-hidden="true"><img src="images/cards/bc-housing-indicators.png" alt="" loading="lazy"></a>
     <div class="eb-proj-body">
       <h3><a href="https://emmabranch.github.io/bc-housing-indicators/">BC municipal housing indicators</a></h3>
       <p>A documented red, amber, and green scorecard for the 40 municipalities with housing targets.</p>
@@ -178,7 +178,7 @@ I turn messy health and environmental data into analysis, maps, and stories peop
     </div>
   </article>
   <article class="eb-proj">
-    <a href="https://emmabranch.github.io/bc-fish-stock-status/" class="eb-proj-img"><img src="images/cards/bc-fish-stock-status.png" alt="" loading="lazy"></a>
+    <a href="https://emmabranch.github.io/bc-fish-stock-status/" class="eb-proj-img" tabindex="-1" aria-hidden="true"><img src="images/cards/bc-fish-stock-status.png" alt="" loading="lazy"></a>
     <div class="eb-proj-body">
       <h3><a href="https://emmabranch.github.io/bc-fish-stock-status/">BC fish stock status</a></h3>
       <p>An exploratory rapid assessment toolkit for ten BC fish and shellfish stocks.</p>
@@ -187,7 +187,7 @@ I turn messy health and environmental data into analysis, maps, and stories peop
     </div>
   </article>
   <article class="eb-proj">
-    <a href="https://emmabranch.github.io/bc-lightstation-qc/" class="eb-proj-img"><img src="images/cards/bc-lightstation-qc.png" alt="" loading="lazy"></a>
+    <a href="https://emmabranch.github.io/bc-lightstation-qc/" class="eb-proj-img" tabindex="-1" aria-hidden="true"><img src="images/cards/bc-lightstation-qc.png" alt="" loading="lazy"></a>
     <div class="eb-proj-body">
       <h3><a href="https://emmabranch.github.io/bc-lightstation-qc/">BC lightstation sea temperatures</a></h3>
       <p>QARTOD quality control for about 140,000 daily ocean temperatures, published with a DOI.</p>
@@ -196,7 +196,7 @@ I turn messy health and environmental data into analysis, maps, and stories peop
     </div>
   </article>
   <article class="eb-proj">
-    <a href="https://emmabranch.github.io/bc-wildfire-bigquery/" class="eb-proj-img"><img src="images/cards/bc-wildfire-bigquery.png" alt="" loading="lazy"></a>
+    <a href="https://emmabranch.github.io/bc-wildfire-bigquery/" class="eb-proj-img" tabindex="-1" aria-hidden="true"><img src="images/cards/bc-wildfire-bigquery.png" alt="" loading="lazy"></a>
     <div class="eb-proj-body">
       <h3><a href="https://emmabranch.github.io/bc-wildfire-bigquery/">BC wildfire history in BigQuery</a></h3>
       <p>76 fire seasons analysed with SQL and BigQuery GIS: not more fires, but far more area burned.</p>
@@ -205,7 +205,7 @@ I turn messy health and environmental data into analysis, maps, and stories peop
     </div>
   </article>
   <article class="eb-proj">
-    <a href="https://emmabranch.github.io/vch-climate-equity-profile/" class="eb-proj-img"><img src="images/cards/vch-climate-equity-profile.png" alt="" loading="lazy"></a>
+    <a href="https://emmabranch.github.io/vch-climate-equity-profile/" class="eb-proj-img" tabindex="-1" aria-hidden="true"><img src="images/cards/vch-climate-equity-profile.png" alt="" loading="lazy"></a>
     <div class="eb-proj-body">
       <h3><a href="https://emmabranch.github.io/vch-climate-equity-profile/">Climate resilience and equity profile of VCH communities</a></h3>
       <p>Social vulnerability to heat and smoke, alongside green cover, with a briefing note.</p>
@@ -214,7 +214,7 @@ I turn messy health and environmental data into analysis, maps, and stories peop
     </div>
   </article>
   <article class="eb-proj">
-    <a href="https://emmabranch.shinyapps.io/bc-salmon-explorer/" class="eb-proj-img"><img src="images/cards/bc-salmon-explorer.png" alt="" loading="lazy"></a>
+    <a href="https://emmabranch.shinyapps.io/bc-salmon-explorer/" class="eb-proj-img" tabindex="-1" aria-hidden="true"><img src="images/cards/bc-salmon-explorer.png" alt="" loading="lazy"></a>
     <div class="eb-proj-body">
       <h3><a href="https://emmabranch.shinyapps.io/bc-salmon-explorer/">BC Salmon Explorer</a></h3>
       <p>A Shiny app mapping 6,988 spawning streams, with Conservation Unit trends from mixed models.</p>
@@ -223,7 +223,7 @@ I turn messy health and environmental data into analysis, maps, and stories peop
     </div>
   </article>
   <article class="eb-proj">
-    <a href="https://emmabranch.github.io/bike-recall-surveillance/" class="eb-proj-img"><img src="images/cards/bike-recall-surveillance.png" alt="" loading="lazy"></a>
+    <a href="https://emmabranch.github.io/bike-recall-surveillance/" class="eb-proj-img" tabindex="-1" aria-hidden="true"><img src="images/cards/bike-recall-surveillance.png" alt="" loading="lazy"></a>
     <div class="eb-proj-body">
       <h3><a href="https://emmabranch.github.io/bike-recall-surveillance/">Bike recall surveillance</a></h3>
       <p>508 bicycle, e-bike, and component recalls in the US and Canada, read like surveillance data.</p>
@@ -232,7 +232,7 @@ I turn messy health and environmental data into analysis, maps, and stories peop
     </div>
   </article>
   <article class="eb-proj">
-    <a href="https://emmabranch.github.io/gravel-geometry/" class="eb-proj-img"><img src="images/cards/gravel-geometry.png" alt="" loading="lazy"></a>
+    <a href="https://emmabranch.github.io/gravel-geometry/" class="eb-proj-img" tabindex="-1" aria-hidden="true"><img src="images/cards/gravel-geometry.png" alt="" loading="lazy"></a>
     <div class="eb-proj-body">
       <h3><a href="https://emmabranch.github.io/gravel-geometry/">Gravel geometry explorer</a></h3>
       <p>24 gravel bikes compared and drawn to scale, with a rider overlay, a geometry builder, and five epi studies.</p>
@@ -241,7 +241,7 @@ I turn messy health and environmental data into analysis, maps, and stories peop
     </div>
   </article>
   <article class="eb-proj">
-    <a href="https://emmabranch.github.io/ontario-claims-caribou/" class="eb-proj-img"><img src="images/cards/ontario-claims-caribou.png" alt="" loading="lazy"></a>
+    <a href="https://emmabranch.github.io/ontario-claims-caribou/" class="eb-proj-img" tabindex="-1" aria-hidden="true"><img src="images/cards/ontario-claims-caribou.png" alt="" loading="lazy"></a>
     <div class="eb-proj-body">
       <h3><a href="https://emmabranch.github.io/ontario-claims-caribou/">Mining claims and caribou</a></h3>
       <p>Active mining claims cover about 50,900 km², or 10.6%, of Ontario's woodland caribou ranges.</p>
@@ -250,7 +250,7 @@ I turn messy health and environmental data into analysis, maps, and stories peop
     </div>
   </article>
   <article class="eb-proj">
-    <a href="https://emmabranch.github.io/scotland-seas-indicators/" class="eb-proj-img"><img src="images/cards/scotland-seas-indicators.png" alt="" loading="lazy"></a>
+    <a href="https://emmabranch.github.io/scotland-seas-indicators/" class="eb-proj-img" tabindex="-1" aria-hidden="true"><img src="images/cards/scotland-seas-indicators.png" alt="" loading="lazy"></a>
     <div class="eb-proj-body">
       <h3><a href="https://emmabranch.github.io/scotland-seas-indicators/">State of Scotland's Seas</a></h3>
       <p>An independent indicator report card: seabirds after avian flu, seals, salmon, sea temperature, and protected areas.</p>
