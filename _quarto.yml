@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd
+  resources:
+    - .nojekyll
+    - images/
+
+website:
+  title: "Emma Branch"
+  site-url: https://emmabranch.github.io/
+  favicon: images/favicon.png
+  description: "Portfolio of Emma Branch, an epidemiologist and data analyst in British Columbia."
+  search: false
+  navbar:
+    left:
+      - href: "index.qmd#projects"
+        text: Projects
+      - href: "index.qmd#about-me"
+        text: About me
+    right:
+      - icon: github
+        href: https://github.com/emmabranch
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/embranch/
+        aria-label: LinkedIn
+
+format:
+  html:
+    theme: [flatly, brand, brand.scss, hub.scss]
+    include-after-body: footer.html
+    toc: false
+    anchor-sections: false
